@@ -8,7 +8,7 @@ As a student with a passion for computer science, I'm currently immersed in the 
 
 * 🌍  I'm based in Toulon, France
 * ✉️  You can contact me at [thomasdiemoz@gmail.com](mailto:thomasdiemoz@gmail.com)
-* 🧠  I'm learning Computer and Network architecture, JavaScript, C++
+* 🧠  I'm learning Computer architecture, Java, C, Rust, ASMx86.
 
 ### Skills
 
