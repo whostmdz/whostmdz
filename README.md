@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student
 ------------------------
 
-As a student with a passion for computer science, I'm currently immersed in the fascinating world of technology through specialist studies. My particular interest lies in the field of the IoT. My GitHub profile is a reflection of my continuous learning journey, highlighting my projects, collaborations and contributions to the IT ecosystem. Ready to explore new perspectives and contribute to the evolution of IoT, I'm open to rewarding collaborations and mutual learning opportunities.
+As a student with a passion for computer science, I'm currently immersed in the fascinating world of technology through specialist studies. My particular interest lies in the field of the low-level. My GitHub profile is a reflection of my continuous learning journey, highlighting my projects, collaborations and contributions to the IT ecosystem. Ready to explore new perspectives and contribute to the evolution of IoT, I'm open to rewarding collaborations and mutual learning opportunities.
 
 * 🌍  I'm based in Toulon, France
 * ✉️  You can contact me at [thomasdiemoz@gmail.com](mailto:thomasdiemoz@gmail.com)
